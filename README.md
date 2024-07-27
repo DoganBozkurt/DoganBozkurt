@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFP2wx7XYX5_g/profile-displaybackgroundimage-shrink_350_1400/0/1703593284863?e=1709164800&v=beta&t=NTS8RtbjLPmtBIf2QrNAa03wDbjBcnOHsK83Wp-WunM)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFP2wx7XYX5_g/profile-displaybackgroundimage-shrink_350_1400/0/1703593284863?e=1727308800&v=beta&t=zkLUaPmJalu5LCpVKvnZyZCkjRs6xzpfyKF6wAFWmwU)
 <h1 align="center">Hi 👋, I'm Doğan</h1>
 <h3 align="center">A passionate full-stack developer from Turkiye</h3>
 
